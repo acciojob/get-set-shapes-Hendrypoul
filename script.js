@@ -17,7 +17,7 @@ class Rectangle {
 
 class Square extends Animal {
 	getPerimeter() {
-		return 2*(this.width) + 2*(this.height);
+		return 2 * (this.width) + 2 * (this.height);
 	}
 }
 
